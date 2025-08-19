@@ -2,7 +2,7 @@ my_flask_app/
 │
 ├── app.py
 │   └──
-        from flask import Flask, render_template, reque
+        from flask import Flask, render_template, requ
 
         app = Flask(__name__)
 
