@@ -28,7 +28,7 @@ my_flask_app/
 
 ├── requirements.txt
 │   └──
-        Flask
+        Flasks
 
 ├── templates/
 │   ├── base.htmS
