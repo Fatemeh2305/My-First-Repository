@@ -69,7 +69,7 @@ my_flask_app/
 │   ├── about.html
 │   │   └──
                 {% extends "base.html" %}
-                {% block content %}
+                {% block contents %}
                 <h1>About</h1>
                 <p>This app demonstrates Flask with multiple pages, a form, and Bootstrap styling.</p>
                 {% endblock %}
