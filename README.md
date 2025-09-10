@@ -102,7 +102,7 @@ my_flask_app/
 
 └── README.md
     └──
-        # Modern Flask Web App a
+        # Modern Flask Web App 
 
         This Flask app includes:
         - Multiple pages (Home, About, Contact)
