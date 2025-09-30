@@ -31,7 +31,7 @@ my_flask_app/
         Flasks
 
 ├── templates/
-│   ├── base.htmS
+│   ├── base.htm
 │   │   └──
                 <!DOCTYPE html>
                 <html lang="en">
