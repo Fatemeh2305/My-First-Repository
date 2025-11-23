@@ -67,7 +67,7 @@ my_flask_app/
                 <p class="lead">This is the home page of a modern styled Flask application.</p>
                 {% endblock %}
 │
-│   ├── about.html
+│   ├── about.htmls
 │   │   └──
                 {% extends "base.html" %}
                 {% block contents %}
