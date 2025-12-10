@@ -7,7 +7,7 @@ my_flask_app/
         app = Flask(__name__)
 
         app.route("/")
-        def home():
+        def home():hgf
             return render_template("index.html")
 
         @app.route("/about")
