@@ -11,7 +11,7 @@ my_flask_app/
             return render_template("index.html")
 
         @app.route("/about")
-        def about():
+        def about():html
             return render_template("about.html")
 
         @app.route("/contact", methods=["GET", "POST"])
