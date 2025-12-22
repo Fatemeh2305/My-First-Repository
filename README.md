@@ -32,7 +32,7 @@ my_flask_app/
        
 
 ├── templates/
-│   ├── 
+│   ├── main
 │   │   └──app.py
                 <!DOCTYPE html>
                 <html lang="en">
