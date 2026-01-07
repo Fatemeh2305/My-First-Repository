@@ -28,7 +28,7 @@ my_flask_app/
              finally:htm
 
 ├── requirements.txts
-│   └──main
+│   └──mains
        
 
 ├── templates/
